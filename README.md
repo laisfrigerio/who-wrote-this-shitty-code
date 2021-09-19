@@ -4,7 +4,7 @@ Ao encontrar um código antigo me fiz a seguinte pergunta "Quem escreveu este c�
 
 Adivinha quem era a autora? Yes, Baby. Eu mesma.
 
-Então surgiu a ideia de compartilhar trechos de códigos que eu já escrevi e mostrar como eu reescreveria atualmente. Demonstrar que com estudos, leituras e, claro, muita prática a evolução vem.
+Então surgiu a ideia de compartilhar trechos de códigos que eu já desenvolvi e mostrar como eu reescreveria atualmente. Demonstrar que com estudos, leituras e, claro, muita prática a evolução vem.
 
 ## Example 1
 
@@ -14,7 +14,7 @@ Então surgiu a ideia de compartilhar trechos de códigos que eu já escrevi e m
 
 **Contexto deste código**: era um formulário de cadastro com nome, e-mail, cpf, telefone e senha. Todos estes campos eram obrigatórios. Desenvolvi a validação do formulário utilizando javascript com jQuery. A validação ocorria toda vez que o usuário pressionava o botão de submit. O botão só ficava desabilitado quando estava ocorrendo a ação de salvar o registro na base de dados.
 
-Pontos de evolução do código que podemos perceber:
+Pontos de evolução do código que podemos perceber após a refatoração:
 
 - Evitei a estrutura if/else e utilizei o padrão de retorno;
 - Evitei a estrutura de if alinhados (um if dentro do outro);
