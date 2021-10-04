@@ -9,7 +9,7 @@ Então surgiu a ideia de compartilhar trechos de códigos que eu já desenvolvi 
 ## Example 1
 
 <p align="center">
-  <a><img src="./example-1/#1-who-wrote-this-shitty-code.png" alt="#1 Who wrote this shitty code?" title="#1 Who wrote this shitty code?"></a>
+  <a><img src="./example-1/who-wrote-this-shitty-code.png" alt="#1 Who wrote this shitty code?" title="#1 Who wrote this shitty code?"></a>
 </p>
 
 **Contexto deste código**: era um formulário de cadastro com nome, e-mail, cpf, telefone e senha. Todos estes campos eram obrigatórios. Desenvolvi a validação do formulário utilizando javascript com jQuery. A validação ocorria toda vez que o usuário pressionava o botão de submit. O botão só ficava desabilitado quando estava ocorrendo a ação de salvar o registro na base de dados.
@@ -25,7 +25,7 @@ Pontos de evolução do código que podemos perceber após a refatoração:
 ## Example 2
 
 <p align="center">
-  <a><img src="./example-2/#2-who-wrote-this-shitty-code.png" alt="#2 Who wrote this shitty code?" title="#2 Who wrote this shitty code?"></a>
+  <a><img src="./example-2/who-wrote-this-shitty-code.png" alt="#2 Who wrote this shitty code?" title="#2 Who wrote this shitty code?"></a>
 </p>
 
 Podemos dizer que "Clean Code" é a arte de dar significado ao seu código.
