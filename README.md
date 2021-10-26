@@ -43,6 +43,26 @@ Além disso, sempre tirar o que de melhor que a linguagem de programação usada
 
 Acredito que a Lais do futuro vai conseguir olhar esse trecho e torná-lo ainda melhor. Mas por ora é essa evolução que consigo evidenciar.
 
+## Example 3
+
+<p align="center">
+  <a><img src="./example-3/who-wrote-this-shitty-code.png" alt="#3 Who wrote this shitty code?" title="#3 Who wrote this shitty code?"></a>
+</p>
+
+🤔 A 4 meses atrás eu comecei a publicar conteúdo no Linkedin.
+
+💡Meu foco desde de então é trazer ideias de como tornar nosso código mais legível, de fácil entendimento, utilizando boas práticas da linguagem.
+
+Acontece que essa evolução é constante. Por exemplo, este código "ruim", eu escrevi a mais ou menos 5 meses atrás, ou seja, bem recente.
+
+E ontem (25/10/2021) eu estava revendo este trecho e identifiquei que era possível melhorá-lo.
+
+✔️ Veja que no primeiro trecho de código a minha condição (if) está relativamente grande. Ao utilizar a função includes, eu diminuí a quantidade de condições OR (que poderiam evoluir e tornar essa condição ainda maior).
+
+🚀 Assim, é sempre importante estudar a linguagem de programação e usar o melhor que ela pode nos oferecer.
+
+❗ Para mais informações sobre o método includes: [Documentação](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array/includes)
+
 ## :woman: Author
 
 | [<img src="https://avatars.githubusercontent.com/u/20709086?v=4" width="100px;" alt="Lais Frigério"/><br /><sub><b>@laisfrigerio</b></sub>](https://github.com/laisfrigerio)<br /> |
