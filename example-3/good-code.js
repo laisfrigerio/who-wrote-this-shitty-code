@@ -6,7 +6,7 @@ const addMaskCardNumber = (brand) => {
     return '#### #### #### ####'
   }
 
-  return '#### #### #### ####'
+  return '#### ####### ####'
 }
 
 export default addMaskCardNumber
