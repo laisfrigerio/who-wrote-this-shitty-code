@@ -63,6 +63,34 @@ E ontem (25/10/2021) eu estava revendo este trecho e identifiquei que era possí
 
 ❗ Para mais informações sobre o método includes: [Documentação](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array/includes)
 
+## Example 4
+
+<p align="center">
+  <a><img src="./example-4/who-wrote-this-shitty-code.png" alt="#4 Who wrote this shitty code?" title="#4 Who wrote this shitty code?"></a>
+</p>
+
+💡 Você provavelmente já escreveu um código e depois de um tempo ao revê-lo percebeu o qual ruim estava, certo?
+
+Se isso aconteceu e/ou ainda acontece é um bom sinal: você está evoluindo sua capacidade de programação.
+
+E é justamente esta a intenção do post: mostrar como eu desenvolvi e como reescreveria o mesmo trecho de código.
+
+O conteúdo de hoje faz parte do "quarto episódio" da série "Who wrote this shitty code".
+
+E, a partir da imagem, conseguimos fazer as seguintes pontuações:
+
+👉  Evitar o uso de ifs alinhados diminui a complexidade do código;
+
+👉  Evitar escrever um trecho de código com mais de 80 caracteres em uma linha. O ideal é sempre o trecho de código estar visível sem a necessidade de scroll lateral;
+
+👉  Estude/acompanhe as features da linguagem de programação e use o que de melhor ela pode nos oferecer. Neste exemplo, eu usei o recurso Operador de encadeamento opcional. O seu uso faz com que não seja necessário verificar cada referência, resultando em expressões mais curtas e simples.
+
+❗ Leia mais sobre o operador de encadeamento opcional [aqui](https://lnkd.in/d843vMyj)
+
+Se gostou, deixe seu starzinho ⭐ aqui repositório!!
+
+📷 Para mais conteúdo, segue meu insta: https://lnkd.in/d6Bxw4HV
+
 ## :woman: Author
 
 | [<img src="https://avatars.githubusercontent.com/u/20709086?v=4" width="100px;" alt="Lais Frigério"/><br /><sub><b>@laisfrigerio</b></sub>](https://github.com/laisfrigerio)<br /> |
